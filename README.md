@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# react-google-map
+A React Google Map compnent that displays data using different markers for eact file. <br>
+View a demo of the app here: [https://react-google-map.herokuapp.com/](https://react-google-map.herokuapp.com/).<br>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
+
+## Quickstart
+To install, run  `npm install`
 
 ## Available Scripts
 
